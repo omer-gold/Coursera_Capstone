@@ -1,0 +1,2 @@
+In order to give a result to the problem, we will use Foursquare data to understand the unique venues in Argentina.
+We will also use a data that contains a list of Argentina cities.
